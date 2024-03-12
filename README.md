@@ -15,6 +15,8 @@ Fasi
    - se non lo trovo: "Oh no, devo uscire a comprare il cocomero!"
 Suggerimenti/Indicazioni:
 Sì, lo sappiamo che esiste la funzione includes() ma noi non la vogliamo utilizzare per cercare nel frigorifero.
+
+
 2. La coda dell'Array
 Cartella: array_tail
 Creiamo un array chiedendo all'utente quanti elementi dovrà contenere e generando tanti numeri casuali (compresi nell'intervallo da 1 a 100) per quanti sono gli elementi da inserire.
@@ -23,6 +25,8 @@ Bonus:
 Chiediamo all'utente quanti elementi dell'array dovremo stampare
 Suggerimenti:
 Probabilmente conviene controllare che il numero di elementi della coda non sia più grande del numero di elementi totali dell'array
+
+
 3.  (Bonus)
 Cartella: array_bonus
 Crea due array che hanno un numero di elementi diversi.
